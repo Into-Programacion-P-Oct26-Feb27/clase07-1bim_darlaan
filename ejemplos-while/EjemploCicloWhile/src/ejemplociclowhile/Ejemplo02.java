@@ -31,7 +31,7 @@ public class Ejemplo02 {
             
             contador = contador + 1;
         }
-        
+       
     }
 }
 /*
